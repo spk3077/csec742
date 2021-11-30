@@ -1,4 +1,3 @@
-## csec742
 # Web Proxies Presentation
 
 This project consists of the dependencies and the source code for detecting HTTP proxies Anonymity status (Anonymous or Elite)
